@@ -1,0 +1,6 @@
+{
+  "name": "XPlayer Pro",
+  "description": "Premium Material 3 Video Player with Gesture Controls, Private Vault, Playlists, Equalizer and All-Format Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
